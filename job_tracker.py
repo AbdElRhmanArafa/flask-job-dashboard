@@ -87,4 +87,4 @@ def get_most_frequent_skills(track_name):
 
 
 if __name__ == "__main__":
-    app.run(debug=app.config["DEBUG"])
+    app.run()
